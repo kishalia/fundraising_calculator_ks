@@ -102,3 +102,4 @@ variable_sub = variable_expenses[1]
 print(variable_frame)
 print()
 print("Variable Costs: ${:.2f}".format(variable_sub))
+
